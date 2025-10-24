@@ -19,7 +19,7 @@ This project showcases a complete machine learning pipeline for **5-class flower
 | Metric | Value |
 | :--- | :--- |
 | **Validation Accuracy** | **~74.61%** |
-| Validation Loss | ~0.6917 |
+| Validation Loss | ~0.6630 |
 
 ***
 
